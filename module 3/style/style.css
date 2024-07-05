@@ -3,7 +3,7 @@
     padding: 0px;
 }
 .container{
-    background-image: linear-gradient(to bottom, rgb(6, 75, 60), rgb(179, 252, 255));
+    background-image: linear-gradient(45 deg, rgb(6, 75, 60), rgb(179, 252, 255));
     width: 1200px;
     margin: 20px auto;
     padding: 20px;
